@@ -8,7 +8,7 @@ Dibuat dengan **PHP native** — tidak perlu Composer atau library luar apapun.
 
 Dokumentasi lengkap cara instalasi dan penggunaan aplikasi ini tersedia dalam bentuk Manual Book (PDF):
 
-📄 [**Manual Book Fasih BAPP.pdf**](docs/Manual_Book_Fasih_BAPP.pdf)
+📄 [**Manual Book Fasih BAPP.pdf**](manual%20book%20bapp.pdf)
 
 Manual Book ini mencakup:
 - Latar belakang, tujuan pengembangan, dan spesifikasi sistem
