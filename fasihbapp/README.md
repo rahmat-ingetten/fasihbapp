@@ -29,8 +29,8 @@ fasihbapp/
 ├── thumb.php               ← Generator thumbnail screenshot
 ├── README.md               ← Dokumentasi proyek
 │
-├── docs/
-│   └── Manual_Book_Fasih_BAPP.pdf  ← Manual book / panduan penggunaan lengkap
+│
+│   
 │
 ├── api/
 │   ├── upload_docx.php         ← Endpoint upload dokumen Word
